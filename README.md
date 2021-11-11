@@ -12,7 +12,7 @@ A Real-Time object detection app, built with <a href="https://www.electronjs.org
 
 <p align="center">
   <a><img alt="MIT License" src="https://img.shields.io/apm/l/atomic-design-ui.svg?"></a>
-  <a><img alt="Github Release" src="https://img.shields.io/badge/release-v1.0.2-blue"></a>
+  <a><img alt="Github Release" src="https://img.shields.io/badge/release-v1.0.1-blue"></a>
   <a href="http://makeapullrequest.com">
     <img alt="PRs Welcome"src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat">
   </a>
@@ -66,8 +66,8 @@ $ npm --version
 Clone the repo and cd into the directory: 
 
 ```bash
-$ git clone https://github.com/Araekiel/sharingan.git
-$ cd sharingan 
+$ git clone https://github.com/sumitd913/RealRecon.git
+$ cd RealRecon
 ```
 
 Then install the node-modules in package.json:
@@ -108,8 +108,8 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ## Authors
 
-- **Araekiel** - [Github](https://github.com/Araekiel)
+- **Sumit** - [Github](https://github.com/sumitdnath)
 
 ## License
 
-[MIT License](https://github.com/Araekiel/sharingan/blob/master/LICENSE) | Copyright (c) 2021 Kumar Shashwat
+[MIT License](https://github.com/sumitd913/RealRecon/blob/main/LICENSE) | Copyright (c) 2021 Sumit 
