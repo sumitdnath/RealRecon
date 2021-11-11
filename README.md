@@ -66,8 +66,8 @@ $ npm --version
 Clone the repo and cd into the directory: 
 
 ```bash
-$ git clone https://github.com/Araekiel/sharingan.git
-$ cd sharingan 
+$ git clone https://github.com/sumitd913/RealRecon.git
+$ cd RealRecon 
 ```
 
 Then install the node-modules in package.json:
