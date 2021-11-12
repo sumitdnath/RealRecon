@@ -28,7 +28,7 @@ A Real-Time object detection app, built with <a href="https://www.electronjs.org
 </p>
 
 <img alt="Screenshot 1" src="https://github.com/sumitd913/RealRecon/blob/main/assets/images/screenshots/2.jpg">
-<img alt="Screenshot 2" src="https://raw.githubusercontent.com/sumitd913/RealRecon/main/assets/images/screenshots/3.jpg?token=AOIIZRLHEVUJRPZV3GAIIXTBRV5UW">
+<img alt="Screenshot 2" src="https://github.com/sumitd913/RealRecon/blob/main/assets/images/screenshots/3.jpg">
 
 ## Prerequisites
 
