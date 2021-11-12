@@ -2,7 +2,6 @@ const electron = require("electron");
 const url = require("url");
 const path = require("path");
 const { input } = require("@tensorflow/tfjs");
-
 const { app, BrowserWindow, ipcMain } = electron;
 
 let mainWindow, inputModal;
