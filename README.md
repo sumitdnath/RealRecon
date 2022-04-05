@@ -2,7 +2,7 @@
   <br>
     <img src="https://github.com/Araekiel/sharingan/blob/master/assets/images/logos/sharingan-fill.png" alt="GitWiz" width="200">
   <br>
-  Sharingan
+  RealRecon
   <br>
 </h1>
 
